@@ -1,0 +1,25 @@
+.env
+
+# Python
+__pycache__/
+*.py[cod]
+venv/
+env/
+
+# Environment Variables
+.env
+.env.local
+
+# Streamlit
+.streamlit/secrets.toml
+
+# ChromaDB
+chroma_db/
+
+# IDE
+.vscode/
+.idea/
+
+# OS
+.DS_Store
+
